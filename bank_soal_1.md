@@ -4,7 +4,7 @@
 Create a function that finds the area of triangle
 
 ```
-areaTriangle(8, 10) ➞ 8
+areaTriangle(8, 10) ➞ 40
 
 areaTriangle(5, 7) ➞ 17.5
 
