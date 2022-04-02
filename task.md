@@ -26,6 +26,13 @@ choose discover to get movie and tv series. thats for endpoint to get all tv ser
 - must be deployed
 - each group have 1 FE repository and 1 BE repository
 
+## Evaluation
+- design consistency:
+	- colors, fonts, layout must remain the same and follows the current mockup design.
+- code structure neatness.
+	- implementation of some software development principle: DRY, KISS, YAGNI.
+- features functionality
+- pitching/presentation (review)
 
 P.S: you can use any endpoint that available in movie or tv series
 
