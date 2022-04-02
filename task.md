@@ -24,6 +24,7 @@ choose discover to get movie and tv series. thats for endpoint to get all tv ser
 - endpoint must be protected
 - show Entity Relation Database
 - must be deployed
+- each group have 1 FE repository and 1 BE repository
 
 
 P.S: you can use any endpoint that available in movie or tv series
