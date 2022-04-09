@@ -30,3 +30,9 @@ choose discover to get movie and tv series. thats for endpoint to get all tv ser
 P.S: you can use any endpoint that available in movie or tv series
 
 Happy Working guys!!!
+
+
+```shell
+(5*<total_reviewer_5_stars> + 4*<total_reviewer_4_stars> + 3*<total_reviewer_3_stars> + 2*<total_reviewer_2_stars> + 1*<total_reviewer_1_stars>) / (<total_reviewer_5_stars>+<total_reviewer_4_stars>+<total_reviewer_3_stars>+<total_reviewer_2_stars>+<total_reviewer_1_stars>)
+
+```
