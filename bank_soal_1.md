@@ -13,20 +13,17 @@ areaTriangle(9, 2) ➞ 9
 
 
 
-# Less Than 100?
+# filter number
 
-Given two numbers, return `true` if the sum of both numbers is less than 100. Otherwise return `false`.
+Given 1 parameter than contains array of number or null. create a function that filter all of the null values and the result will be array of number. but without using build in function of javascript
 
 ### Examples
 
 ```
-lessThan100(22, 15) ➞ Less than 100
-// 22 + 15 = 37
-
-lessThan100(83, 34) ➞ More than 100
-// 83 + 34 = 117
-
-lessThan100(3, 77) ➞ Less than 100
+filterNumber([1,2,3,45, null, NaN, "asdasddsa", 123124,2345123]) -> [1,2,3,45,123124,2345123]
+filterNumber([0,2,5,10,100,3,2,7,9, null, NaN, "asdasddsa", 123124,2345123]) -> [0,2,5,10,100,3,2,7,9 , 123124,2345123]
+filterNumber([null, NaN, "asdasddsa"]) -> []
+filterNumber([]) -> []
 ```
 
 
